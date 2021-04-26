@@ -1,6 +1,6 @@
 - 👋 Hola, me llamo Axel Frías. :) Bienvenido a mi repositorio.
 - 👀 Estoy interesado en el desarrollo backend, administración de proyectos y arquitectura de sistemas. Adoraría colaborar el proyectos de videojuegos o entretenimiento.
-- 🌱 Estoy en la ruta de aprendizaje para JAVA SE 11, creación de microservicios en .Net Core 2.1 y superior, revisando la guía PMBOK y Agile, francés y un etcétera en constante cambio. 
+- 🌱 Creación de microservicios en .Net Core 2.1 y superior, revisando la guía PMBOK y Agile, francés y un etcétera en constante cambio. 
 - 💞️ Me gustaría colaborar en proyectos de entretenimiento o videojuegos para tener un contacto más cercano con los usuarios.
 - 📫 Pueden contactarme a través de mi correo axel.frias257@gmail.com.
 
