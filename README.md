@@ -1,6 +1,6 @@
 - 👋 Hola, me llamo Axel Frías. :) Bienvenido a mi repositorio.
 
-![Alt Text](https://giphy.com/gifs/masonramsey-mason-ramsey-cdNSp4L5vCU7aQrYnV)
+![Alt Text](https://giphy.com/gifs/masonramsey-mason-ramsey-cdNSp4L5vCU7aQrYnV?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/)
 
 - 👀 Estoy interesado en el desarrollo backend, administración de proyectos y arquitectura de sistemas. Adoraría colaborar el proyectos de videojuegos o entretenimiento.
 - 🌱 Creación de microservicios en .Net Core 2.1 y superior, revisando la guía PMBOK y Agile, francés y un etcétera en constante cambio. 
